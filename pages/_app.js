@@ -1,11 +1,15 @@
 import '../styles/index.css'
 import Nav from '../components/Nav';
+import { DataProvider } from '../context/dataContext';
 
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <Nav />
-      <Component {...pageProps} />
+      <DataProvider>
+        <Component {...pageProps} />
+      </DataProvider>
+      
     </>
   )
 }
