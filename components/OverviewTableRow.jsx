@@ -8,7 +8,8 @@ const OverviewTableRow = ({
   vorp,
   vols,
   onClick,
-  isLoading
+  isLoading,
+  index
 }) => {
   const onRowClick = () => {
     if (isLoading) return;
@@ -19,6 +20,9 @@ const OverviewTableRow = ({
 
   return (
     <tr class={disableCss} key={Player + Team} onClick={onRowClick}>
+      <td class="px-3 py-3 whitespace-no-wrap text-sm leading-5 text-gray-900">
+        {index + 1}
+      </td>
       <td class="px-3 py-3 whitespace-no-wrap">
         <div class="text-sm leading-5 font-medium text-gray-900">
           {Player}

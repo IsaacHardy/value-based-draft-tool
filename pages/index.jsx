@@ -27,8 +27,8 @@ const Home = () => {
                   <OverviewTableHeader />
                 </thead>
                 <tbody class="bg-white divide-y  bg-gray-600 divide-gray-200">
-                  {data.map(playerData => (
-                    <OverviewTableRow isLoading={isLoading} {...playerData} onClick={draftPlayer}/>
+                  {data.map((playerData, index) => (
+                    <OverviewTableRow index={index} isLoading={isLoading} {...playerData} onClick={draftPlayer}/>
                   ))}
                 </tbody>
               </table>
