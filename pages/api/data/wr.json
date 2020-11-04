@@ -3,118 +3,82 @@
     "RK": 1,
     "Player": "Davante Adams",
     "TEAM": "GB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 183.6,
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 163.2,
     "ECR VS. ADP": -1
   },
   {
     "RK": 2,
     "Player": "DeAndre Hopkins",
     "TEAM": "ARI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 145.6,
     "ECR VS. ADP": -3
   },
   {
     "RK": 3,
-    "Player": "Calvin Ridley",
+    "Player": "Julio Jones",
     "TEAM": "ATL",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 138.4,
-    "ECR VS. ADP": -14
-  },
-  {
-    "RK": 6,
-    "Player": "Michael Thomas",
-    "TEAM": "NO",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 137.7,
-    "ECR VS. ADP": "+5.0"
-  },
-  {
-    "RK": 7,
-    "Player": "Adam Thielen",
-    "TEAM": "MIN",
-    "SOS SEASON": "1 out of 5 stars",
     "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 133.2,
-    "ECR VS. ADP": -6
-  },
-  {
-    "RK": 8,
-    "Player": "Keenan Allen",
-    "TEAM": "LAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 132.3,
-    "ECR VS. ADP": -11
-  },
-  {
-    "RK": 9,
-    "Player": "D.K. Metcalf",
-    "TEAM": "SEA",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 131.4,
-    "ECR VS. ADP": -13
-  },
-  {
-    "RK": 11,
-    "Player": "Tyler Lockett",
-    "TEAM": "SEA",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 131.4,
-    "ECR VS. ADP": -10
+    "FPTS": 121.1,
+    "ECR VS. ADP": -1
   },
   {
     "RK": 4,
     "Player": "Tyreek Hill",
     "TEAM": "KC",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 130.4,
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 114.1,
     "ECR VS. ADP": "+1.0"
   },
   {
     "RK": 5,
-    "Player": "Julio Jones",
-    "TEAM": "ATL",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
+    "Player": "D.K. Metcalf",
+    "TEAM": "SEA",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
     "FPTS": 129.6,
-    "ECR VS. ADP": "+1.0"
+    "ECR VS. ADP": -17
   },
   {
-    "RK": 13,
-    "Player": "Kenny Golladay",
-    "TEAM": "DET",
-    "SOS SEASON": "2 out of 5 stars",
+    "RK": 6,
+    "Player": "Michael Thomas",
+    "TEAM": "NO",
+    "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 129.6,
+    "FPTS": 122.4,
     "ECR VS. ADP": "+5.0"
   },
   {
-    "RK": 14,
-    "Player": "A.J. Brown",
-    "TEAM": "TEN",
+    "RK": 7,
+    "Player": "Keenan Allen",
+    "TEAM": "LAC",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 129.6,
-    "ECR VS. ADP": -2
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 118.4,
+    "ECR VS. ADP": -12
   },
   {
-    "RK": 25,
-    "Player": "Diontae Johnson",
-    "TEAM": "PIT",
+    "RK": 8,
+    "Player": "Calvin Ridley",
+    "TEAM": "ATL",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 117.9,
-    "ECR VS. ADP": -15
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 102.9,
+    "ECR VS. ADP": -9
+  },
+  {
+    "RK": 9,
+    "Player": "Tyler Lockett",
+    "TEAM": "SEA",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 116.8,
+    "ECR VS. ADP": -12
   },
   {
     "RK": 10,
@@ -122,26 +86,161 @@
     "TEAM": "CHI",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 116.8,
+    "FPTS": 102.2,
     "ECR VS. ADP": 0
+  },
+  {
+    "RK": 11,
+    "Player": "Adam Thielen",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 116.8,
+    "ECR VS. ADP": -2
   },
   {
     "RK": 12,
-    "Player": "Stefon Diggs",
-    "TEAM": "BUF",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 115.2,
-    "ECR VS. ADP": -15
-  },
-  {
-    "RK": 26,
-    "Player": "DeVante Parker",
-    "TEAM": "MIA",
+    "Player": "A.J. Brown",
+    "TEAM": "TEN",
     "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 115.2,
-    "ECR VS. ADP": 0
+    "ECR VS. ADP": -4
+  },
+  {
+    "RK": 13,
+    "Player": "Stefon Diggs",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 100.8,
+    "ECR VS. ADP": -14
+  },
+  {
+    "RK": 14,
+    "Player": "Terry McLaurin",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 115.2,
+    "ECR VS. ADP": -11
+  },
+  {
+    "RK": 15,
+    "Player": "Will Fuller V",
+    "TEAM": "HOU",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 113.6,
+    "ECR VS. ADP": -19
+  },
+  {
+    "RK": 16,
+    "Player": "Tyler Boyd",
+    "TEAM": "CIN",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 99.4,
+    "ECR VS. ADP": -16
+  },
+  {
+    "RK": 17,
+    "Player": "Chris Godwin",
+    "TEAM": "TB",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 99.4,
+    "ECR VS. ADP": "+11.0"
+  },
+  {
+    "RK": 18,
+    "Player": "Robert Woods",
+    "TEAM": "LAR",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 98,
+    "ECR VS. ADP": -2
+  },
+  {
+    "RK": 19,
+    "Player": "Robby Anderson",
+    "TEAM": "CAR",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 97.3,
+    "ECR VS. ADP": -35
+  },
+  {
+    "RK": 20,
+    "Player": "D.J. Moore",
+    "TEAM": "CAR",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 95.2,
+    "ECR VS. ADP": "+11.0"
+  },
+  {
+    "RK": 21,
+    "Player": "Cooper Kupp",
+    "TEAM": "LAR",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 94.5,
+    "ECR VS. ADP": "+6.0"
+  },
+  {
+    "RK": 22,
+    "Player": "Tee Higgins",
+    "TEAM": "CIN",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 93.8,
+    "ECR VS. ADP": -52
+  },
+  {
+    "RK": 23,
+    "Player": "Kenny Golladay",
+    "TEAM": "DET",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 105.6,
+    "ECR VS. ADP": "+15.0"
+  },
+  {
+    "RK": 24,
+    "Player": "Amari Cooper",
+    "TEAM": "DAL",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 91.7,
+    "ECR VS. ADP": "+12.0"
+  },
+  {
+    "RK": 25,
+    "Player": "Justin Jefferson",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 91.7,
+    "ECR VS. ADP": -23
+  },
+  {
+    "RK": 26,
+    "Player": "Travis Fulgham",
+    "TEAM": "PHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 89.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 27,
+    "Player": "Diontae Johnson",
+    "TEAM": "PIT",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 102.4,
+    "ECR VS. ADP": -13
   },
   {
     "RK": 28,
@@ -149,197 +248,89 @@
     "TEAM": "PIT",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 115.2,
+    "FPTS": 102.4,
     "ECR VS. ADP": "+14.0"
   },
   {
-    "RK": 15,
-    "Player": "Terry McLaurin",
-    "TEAM": "WAS",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 113.6,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 16,
-    "Player": "Robert Woods",
-    "TEAM": "LAR",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 113.6,
-    "ECR VS. ADP": -4
-  },
-  {
-    "RK": 17,
-    "Player": "Amari Cooper",
-    "TEAM": "DAL",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 113.6,
-    "ECR VS. ADP": "+5.0"
-  },
-  {
     "RK": 29,
-    "Player": "Marquise Brown",
-    "TEAM": "BAL",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 113.4,
-    "ECR VS. ADP": -1
-  },
-  {
-    "RK": 18,
-    "Player": "Will Fuller V",
-    "TEAM": "HOU",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 112,
-    "ECR VS. ADP": -16
-  },
-  {
-    "RK": 19,
-    "Player": "Chris Godwin",
-    "TEAM": "TB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 111.2,
-    "ECR VS. ADP": "+13.0"
-  },
-  {
-    "RK": 20,
-    "Player": "Cooper Kupp",
-    "TEAM": "LAR",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 108.8,
-    "ECR VS. ADP": "+5.0"
-  },
-  {
-    "RK": 21,
-    "Player": "Robby Anderson",
-    "TEAM": "CAR",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 108,
-    "ECR VS. ADP": -33
-  },
-  {
-    "RK": 22,
-    "Player": "Tyler Boyd",
-    "TEAM": "CIN",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 107.2,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 23,
-    "Player": "Justin Jefferson",
-    "TEAM": "MIN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 105.6,
-    "ECR VS. ADP": -25
-  },
-  {
-    "RK": 24,
-    "Player": "D.J. Moore",
-    "TEAM": "CAR",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 104.8,
-    "ECR VS. ADP": "+15.0"
-  },
-  {
-    "RK": 27,
-    "Player": "D.J. Chark Jr.",
-    "TEAM": "JAC",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 102.4,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 30,
     "Player": "Jamison Crowder",
     "TEAM": "NYJ",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 99.2,
-    "ECR VS. ADP": -12
+    "FPTS": 88.2,
+    "ECR VS. ADP": -13
   },
   {
-    "RK": 31,
+    "RK": 30,
     "Player": "Mike Evans",
     "TEAM": "TB",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 86.8,
+    "ECR VS. ADP": "+23.0"
+  },
+  {
+    "RK": 31,
+    "Player": "D.J. Chark Jr.",
+    "TEAM": "JAC",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
     "FPTS": 99.2,
-    "ECR VS. ADP": "+24.0"
+    "ECR VS. ADP": "+8.0"
   },
   {
     "RK": 32,
-    "Player": "Tee Higgins",
-    "TEAM": "CIN",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
+    "Player": "DeVante Parker",
+    "TEAM": "MIA",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
     "FPTS": 97.6,
-    "ECR VS. ADP": -42
+    "ECR VS. ADP": "+6.0"
   },
   {
     "RK": 33,
-    "Player": "Travis Fulgham",
-    "TEAM": "PHI",
+    "Player": "Marquise Brown",
+    "TEAM": "BAL",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
     "FPTS": 97.6,
-    "ECR VS. ADP": "-"
+    "ECR VS. ADP": "+3.0"
   },
   {
     "RK": 34,
-    "Player": "Brandin Cooks",
-    "TEAM": "HOU",
-    "SOS SEASON": "4 out of 5 stars",
+    "Player": "Chase Claypool",
+    "TEAM": "PIT",
+    "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 96,
-    "ECR VS. ADP": -1
+    "FPTS": 84,
+    "ECR VS. ADP": -42
   },
   {
     "RK": 35,
-    "Player": "Christian Kirk",
-    "TEAM": "ARI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 92.8,
-    "ECR VS. ADP": -3
-  },
-  {
-    "RK": 36,
-    "Player": "Darius Slayton",
-    "TEAM": "NYG",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 92.8,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 44,
-    "Player": "Mike Williams",
-    "TEAM": "LAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 92.7,
-    "ECR VS. ADP": -8
-  },
-  {
-    "RK": 37,
     "Player": "Jarvis Landry",
     "TEAM": "CLE",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 91.2,
-    "ECR VS. ADP": "+9.0"
+    "FPTS": 81.2,
+    "ECR VS. ADP": "+7.0"
+  },
+  {
+    "RK": 36,
+    "Player": "Brandin Cooks",
+    "TEAM": "HOU",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 92.8,
+    "ECR VS. ADP": "+1.0"
+  },
+  {
+    "RK": 37,
+    "Player": "Brandon Aiyuk",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 79.8,
+    "ECR VS. ADP": -26
   },
   {
     "RK": 38,
@@ -347,404 +338,395 @@
     "TEAM": "DAL",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 90.4,
+    "FPTS": 79.1,
     "ECR VS. ADP": -1
   },
   {
     "RK": 39,
-    "Player": "Chase Claypool",
-    "TEAM": "PIT",
-    "SOS SEASON": "3 out of 5 stars",
+    "Player": "Darius Slayton",
+    "TEAM": "NYG",
+    "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 89.6,
-    "ECR VS. ADP": -37
+    "FPTS": 78.4,
+    "ECR VS. ADP": -7
   },
   {
     "RK": 40,
+    "Player": "Corey Davis",
+    "TEAM": "TEN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 88.8,
+    "ECR VS. ADP": -33
+  },
+  {
+    "RK": 41,
+    "Player": "Mike Williams",
+    "TEAM": "LAC",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 84.8,
+    "ECR VS. ADP": -11
+  },
+  {
+    "RK": 42,
+    "Player": "Christian Kirk",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 84.8,
+    "ECR VS. ADP": "+4.0"
+  },
+  {
+    "RK": 43,
+    "Player": "Sterling Shepard",
+    "TEAM": "NYG",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 72.8,
+    "ECR VS. ADP": "+2.0"
+  },
+  {
+    "RK": 44,
     "Player": "Antonio Brown",
     "TEAM": "TB",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 88.8,
-    "ECR VS. ADP": -30
+    "FPTS": 72.1,
+    "ECR VS. ADP": -26
   },
   {
-    "RK": 50,
-    "Player": "Emmanuel Sanders",
-    "TEAM": "NO",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 86.4,
-    "ECR VS. ADP": "+6.0"
-  },
-  {
-    "RK": 41,
-    "Player": "Sterling Shepard",
-    "TEAM": "NYG",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 84.8,
-    "ECR VS. ADP": 0
-  },
-  {
-    "RK": 42,
+    "RK": 45,
     "Player": "A.J. Green",
     "TEAM": "CIN",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 84.8,
-    "ECR VS. ADP": "+13.0"
-  },
-  {
-    "RK": 43,
-    "Player": "John Brown",
-    "TEAM": "BUF",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 83.2,
-    "ECR VS. ADP": 0
-  },
-  {
-    "RK": 53,
-    "Player": "Tim Patrick",
-    "TEAM": "DEN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 82.8,
-    "ECR VS. ADP": -91
-  },
-  {
-    "RK": 45,
-    "Player": "Cole Beasley",
-    "TEAM": "BUF",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 81.6,
-    "ECR VS. ADP": -24
-  },
-  {
-    "RK": 56,
-    "Player": "Corey Davis",
-    "TEAM": "TEN",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 81,
-    "ECR VS. ADP": -17
-  },
-  {
-    "RK": 57,
-    "Player": "T.Y. Hilton",
-    "TEAM": "IND",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 81,
-    "ECR VS. ADP": "+33.0"
-  },
-  {
-    "RK": 58,
-    "Player": "Preston Williams",
-    "TEAM": "MIA",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 80.1,
-    "ECR VS. ADP": "+9.0"
-  },
-  {
-    "RK": 60,
-    "Player": "Julian Edelman",
-    "TEAM": "NE",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 80.1,
-    "ECR VS. ADP": "+27.0"
+    "FPTS": 71.4,
+    "ECR VS. ADP": "+16.0"
   },
   {
     "RK": 46,
-    "Player": "Keelan Cole",
-    "TEAM": "JAC",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 80,
-    "ECR VS. ADP": "-"
+    "Player": "Jerry Jeudy",
+    "TEAM": "DEN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 70,
+    "ECR VS. ADP": "+1.0"
   },
   {
     "RK": 47,
-    "Player": "Brandon Aiyuk",
+    "Player": "Deebo Samuel",
     "TEAM": "SF",
-    "SOS SEASON": "2 out of 5 stars",
+    "SOS SEASON": "1 out of 5 stars",
     "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 78.4,
-    "ECR VS. ADP": -16
+    "FPTS": 68.6,
+    "ECR VS. ADP": "+10.0"
   },
   {
     "RK": 48,
-    "Player": "Deebo Samuel",
-    "TEAM": "SF",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 78.4,
-    "ECR VS. ADP": "+11.0"
+    "Player": "John Brown",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 68.6,
+    "ECR VS. ADP": "+5.0"
   },
   {
     "RK": 49,
-    "Player": "Jerry Jeudy",
-    "TEAM": "DEN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 77.6,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 62,
     "Player": "Marvin Jones Jr.",
     "TEAM": "DET",
     "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 77.4,
-    "ECR VS. ADP": "+26.0"
+    "FPTS": 77.6,
+    "ECR VS. ADP": "+13.0"
+  },
+  {
+    "RK": 50,
+    "Player": "Cole Beasley",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 67.2,
+    "ECR VS. ADP": -19
   },
   {
     "RK": 51,
-    "Player": "Laviska Shenault Jr.",
-    "TEAM": "JAC",
+    "Player": "Emmanuel Sanders",
+    "TEAM": "NO",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 76.8,
-    "ECR VS. ADP": -29
-  },
-  {
-    "RK": 65,
-    "Player": "Marquez Valdes-Scantling",
-    "TEAM": "GB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 75.6,
-    "ECR VS. ADP": -23
+    "ECR VS. ADP": "+7.0"
   },
   {
     "RK": 52,
-    "Player": "Henry Ruggs III",
-    "TEAM": "LV",
+    "Player": "Tim Patrick",
+    "TEAM": "DEN",
     "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
     "FPTS": 75.2,
-    "ECR VS. ADP": "+5.0"
+    "ECR VS. ADP": -92
+  },
+  {
+    "RK": 53,
+    "Player": "Laviska Shenault Jr.",
+    "TEAM": "JAC",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 64.4,
+    "ECR VS. ADP": -27
   },
   {
     "RK": 54,
+    "Player": "Henry Ruggs III",
+    "TEAM": "LV",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 64.4,
+    "ECR VS. ADP": "+7.0"
+  },
+  {
+    "RK": 55,
     "Player": "Michael Gallup",
     "TEAM": "DAL",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 73.6,
-    "ECR VS. ADP": "+23.0"
+    "FPTS": 63.7,
+    "ECR VS. ADP": "+24.0"
   },
   {
-    "RK": 67,
-    "Player": "Zach Pascal",
-    "TEAM": "IND",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 72.9,
-    "ECR VS. ADP": -58
-  },
-  {
-    "RK": 55,
-    "Player": "Russell Gage",
-    "TEAM": "ATL",
-    "SOS SEASON": "2 out of 5 stars",
+    "RK": 56,
+    "Player": "Keelan Cole Sr.",
+    "TEAM": "JAC",
+    "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 72.8,
-    "ECR VS. ADP": -34
+    "FPTS": 72,
+    "ECR VS. ADP": "-"
   },
   {
-    "RK": 59,
+    "RK": 57,
+    "Player": "Preston Williams",
+    "TEAM": "MIA",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 72,
+    "ECR VS. ADP": "+8.0"
+  },
+  {
+    "RK": 58,
     "Player": "Jalen Reagor",
     "TEAM": "PHI",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 71.2,
-    "ECR VS. ADP": "+1.0"
+    "FPTS": 62.3,
+    "ECR VS. ADP": 0
   },
   {
-    "RK": 70,
-    "Player": "Adam Humphries",
-    "TEAM": "TEN",
-    "SOS SEASON": "3 out of 5 stars",
+    "RK": 59,
+    "Player": "Randall Cobb",
+    "TEAM": "HOU",
+    "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 70.2,
-    "ECR VS. ADP": -59
+    "FPTS": 71.2,
+    "ECR VS. ADP": -7
+  },
+  {
+    "RK": 60,
+    "Player": "Russell Gage",
+    "TEAM": "ATL",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 62.3,
+    "ECR VS. ADP": -29
   },
   {
     "RK": 61,
     "Player": "Mecole Hardman",
     "TEAM": "KC",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 68.8,
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 60.2,
     "ECR VS. ADP": "+11.0"
   },
   {
-    "RK": 63,
-    "Player": "Randall Cobb",
-    "TEAM": "HOU",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 68.8,
-    "ECR VS. ADP": -3
+    "RK": 62,
+    "Player": "Curtis Samuel",
+    "TEAM": "CAR",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 60.2,
+    "ECR VS. ADP": "+3.0"
   },
   {
-    "RK": 64,
+    "RK": 63,
     "Player": "Sammy Watkins",
     "TEAM": "KC",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 60.2,
+    "ECR VS. ADP": "+8.0"
+  },
+  {
+    "RK": 64,
+    "Player": "T.Y. Hilton",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
     "FPTS": 68.8,
-    "ECR VS. ADP": "+9.0"
+    "ECR VS. ADP": "+40.0"
   },
   {
-    "RK": 71,
-    "Player": "Nelson Agholor",
-    "TEAM": "LV",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 68.4,
-    "ECR VS. ADP": -15
-  },
-  {
-    "RK": 72,
+    "RK": 65,
     "Player": "Hunter Renfrow",
     "TEAM": "LV",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 66.6,
-    "ECR VS. ADP": "+5.0"
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 67.2,
+    "ECR VS. ADP": -2
   },
   {
     "RK": 66,
-    "Player": "Greg Ward",
-    "TEAM": "PHI",
+    "Player": "Darnell Mooney",
+    "TEAM": "CHI",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 66.4,
-    "ECR VS. ADP": -81
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 58.1,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 67,
+    "Player": "Nelson Agholor",
+    "TEAM": "LV",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 64.8,
+    "ECR VS. ADP": -19
   },
   {
     "RK": 68,
+    "Player": "Zach Pascal",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 64.8,
+    "ECR VS. ADP": -57
+  },
+  {
+    "RK": 69,
     "Player": "Scotty Miller",
     "TEAM": "TB",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 64.8,
-    "ECR VS. ADP": -22
+    "FPTS": 56,
+    "ECR VS. ADP": -21
   },
   {
-    "RK": 69,
-    "Player": "Rashard Higgins",
-    "TEAM": "CLE",
+    "RK": 70,
+    "Player": "Greg Ward",
+    "TEAM": "PHI",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 64,
-    "ECR VS. ADP": -37
-  },
-  {
-    "RK": 73,
-    "Player": "Tre'Quan Smith",
-    "TEAM": "NO",
-    "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 62.1,
-    "ECR VS. ADP": -11
+    "FPTS": 54.6,
+    "ECR VS. ADP": -77
   },
   {
-    "RK": 78,
-    "Player": "James Washington",
-    "TEAM": "PIT",
-    "SOS SEASON": "3 out of 5 stars",
+    "RK": 71,
+    "Player": "Adam Humphries",
+    "TEAM": "TEN",
+    "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 54.9,
-    "ECR VS. ADP": "+3.0"
+    "FPTS": 60.8,
+    "ECR VS. ADP": -58
   },
   {
-    "RK": 80,
-    "Player": "Marcus Johnson",
-    "TEAM": "IND",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 54,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 81,
-    "Player": "N'Keal Harry",
-    "TEAM": "NE",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 54,
-    "ECR VS. ADP": "+24.0"
-  },
-  {
-    "RK": 74,
-    "Player": "Curtis Samuel",
-    "TEAM": "CAR",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 52.8,
-    "ECR VS. ADP": "+15.0"
-  },
-  {
-    "RK": 75,
-    "Player": "Breshad Perriman",
-    "TEAM": "NYJ",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 51.2,
-    "ECR VS. ADP": "+14.0"
-  },
-  {
-    "RK": 76,
+    "RK": 72,
     "Player": "Golden Tate",
     "TEAM": "NYG",
     "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 51.2,
-    "ECR VS. ADP": "+25.0"
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 51.8,
+    "ECR VS. ADP": "+21.0"
   },
   {
-    "RK": 77,
+    "RK": 73,
     "Player": "Anthony Miller",
     "TEAM": "CHI",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 50.4,
-    "ECR VS. ADP": "+24.0"
+    "FPTS": 48.3,
+    "ECR VS. ADP": "+20.0"
   },
   {
-    "RK": 88,
-    "Player": "Allen Lazard",
+    "RK": 74,
+    "Player": "Tre'Quan Smith",
+    "TEAM": "NO",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 52.8,
+    "ECR VS. ADP": -10
+  },
+  {
+    "RK": 75,
+    "Player": "Marquez Valdes-Scantling",
     "TEAM": "GB",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 51.2,
+    "ECR VS. ADP": -13
+  },
+  {
+    "RK": 76,
+    "Player": "Breshad Perriman",
+    "TEAM": "NYJ",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 49.5,
-    "ECR VS. ADP": "+24.0"
+    "FPTS": 44.8,
+    "ECR VS. ADP": "+15.0"
+  },
+  {
+    "RK": 77,
+    "Player": "Denzel Mims",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 44.1,
+    "ECR VS. ADP": 0
+  },
+  {
+    "RK": 78,
+    "Player": "Julian Edelman",
+    "TEAM": "NE",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 48.8,
+    "ECR VS. ADP": "+45.0"
   },
   {
     "RK": 79,
-    "Player": "Alshon Jeffery",
-    "TEAM": "PHI",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 48.8,
-    "ECR VS. ADP": "+17.0"
+    "Player": "Kendrick Bourne",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 42.7,
+    "ECR VS. ADP": -3
   },
   {
-    "RK": 90,
-    "Player": "Danny Amendola",
-    "TEAM": "DET",
+    "RK": 80,
+    "Player": "Allen Lazard",
+    "TEAM": "GB",
     "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 48.6,
-    "ECR VS. ADP": "+9.0"
+    "FPTS": 48,
+    "ECR VS. ADP": "+16.0"
+  },
+  {
+    "RK": 81,
+    "Player": "Rashard Higgins",
+    "TEAM": "CLE",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 42,
+    "ECR VS. ADP": -25
   },
   {
     "RK": 82,
@@ -752,197 +734,197 @@
     "TEAM": "LAR",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 47.2,
+    "FPTS": 41.3,
     "ECR VS. ADP": -33
   },
   {
     "RK": 83,
-    "Player": "Denzel Mims",
-    "TEAM": "NYJ",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "Player": "Danny Amendola",
+    "TEAM": "DET",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 46.4,
-    "ECR VS. ADP": "+6.0"
+    "ECR VS. ADP": "+2.0"
   },
   {
     "RK": 84,
-    "Player": "Demarcus Robinson",
-    "TEAM": "KC",
+    "Player": "James Washington",
+    "TEAM": "PIT",
     "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 46.4,
-    "ECR VS. ADP": -52
+    "ECR VS. ADP": "+9.0"
   },
   {
     "RK": 85,
-    "Player": "Darnell Mooney",
-    "TEAM": "CHI",
+    "Player": "Alshon Jeffery",
+    "TEAM": "PHI",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 45.6,
-    "ECR VS. ADP": "-"
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 39.9,
+    "ECR VS. ADP": "+23.0"
   },
   {
     "RK": 86,
-    "Player": "KJ Hamler",
-    "TEAM": "DEN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 45.6,
-    "ECR VS. ADP": -34
-  },
-  {
-    "RK": 92,
     "Player": "Damiere Byrd",
     "TEAM": "NE",
-    "SOS SEASON": "1 out of 5 stars",
+    "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 45,
-    "ECR VS. ADP": -61
+    "FPTS": 45.6,
+    "ECR VS. ADP": -67
   },
   {
     "RK": 87,
-    "Player": "Gabriel Davis",
-    "TEAM": "BUF",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
+    "Player": "Larry Fitzgerald",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 44.8,
-    "ECR VS. ADP": -83
+    "ECR VS. ADP": "+22.0"
+  },
+  {
+    "RK": 88,
+    "Player": "KJ Hamler",
+    "TEAM": "DEN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 38.5,
+    "ECR VS. ADP": -32
   },
   {
     "RK": 89,
-    "Player": "Donovan Peoples-Jones",
-    "TEAM": "CLE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
+    "Player": "N'Keal Harry",
+    "TEAM": "NE",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
     "FPTS": 44,
-    "ECR VS. ADP": -34
+    "ECR VS. ADP": "+32.0"
+  },
+  {
+    "RK": 90,
+    "Player": "Demarcus Robinson",
+    "TEAM": "KC",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 37.8,
+    "ECR VS. ADP": -46
   },
   {
     "RK": 91,
-    "Player": "Larry Fitzgerald",
-    "TEAM": "ARI",
-    "SOS SEASON": "3 out of 5 stars",
+    "Player": "Gabriel Davis",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 41.6,
-    "ECR VS. ADP": "+26.0"
+    "FPTS": 36.4,
+    "ECR VS. ADP": -79
   },
   {
-    "RK": 95,
-    "Player": "Isaiah Ford",
-    "TEAM": "MIA",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 41.4,
+    "RK": 92,
+    "Player": "Marcus Johnson",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 40,
     "ECR VS. ADP": "-"
   },
   {
-    "RK": 97,
+    "RK": 93,
+    "Player": "Jakobi Meyers",
+    "TEAM": "NE",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 40,
+    "ECR VS. ADP": -52
+  },
+  {
+    "RK": 94,
+    "Player": "Isaiah Ford",
+    "TEAM": "MIA",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 39.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 95,
     "Player": "David Moore",
     "TEAM": "SEA",
     "SOS SEASON": "1 out of 5 stars",
     "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 40.5,
-    "ECR VS. ADP": -7
-  },
-  {
-    "RK": 93,
-    "Player": "Andy Isabella",
-    "TEAM": "ARI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 40,
-    "ECR VS. ADP": -21
-  },
-  {
-    "RK": 94,
-    "Player": "DeSean Jackson",
-    "TEAM": "PHI",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 39.2,
-    "ECR VS. ADP": "+38.0"
+    "FPTS": 36.8,
+    "ECR VS. ADP": -9
   },
   {
     "RK": 96,
-    "Player": "Bryan Edwards",
-    "TEAM": "LV",
+    "Player": "Andy Isabella",
+    "TEAM": "ARI",
     "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 36.8,
-    "ECR VS. ADP": "+25.0"
+    "ECR VS. ADP": -18
   },
   {
-    "RK": 98,
-    "Player": "Dontrelle Inman",
-    "TEAM": "WAS",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 36,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 99,
-    "Player": "Jalen Guyton",
-    "TEAM": "LAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 35.2,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 100,
-    "Player": "Van Jefferson",
-    "TEAM": "LAR",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 34.4,
-    "ECR VS. ADP": "+9.0"
-  },
-  {
-    "RK": 106,
-    "Player": "Miles Boykin",
-    "TEAM": "BAL",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 34.2,
-    "ECR VS. ADP": -16
-  },
-  {
-    "RK": 101,
-    "Player": "Marquez Callaway",
-    "TEAM": "NO",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 33.6,
-    "ECR VS. ADP": -78
-  },
-  {
-    "RK": 102,
-    "Player": "John Ross",
-    "TEAM": "CIN",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 32.8,
-    "ECR VS. ADP": "+8.0"
-  },
-  {
-    "RK": 103,
-    "Player": "Steven Sims",
-    "TEAM": "WAS",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 32.8,
-    "ECR VS. ADP": "+18.0"
-  },
-  {
-    "RK": 108,
+    "RK": 97,
     "Player": "Willie Snead IV",
     "TEAM": "BAL",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 32.4,
-    "ECR VS. ADP": 0
+    "FPTS": 36,
+    "ECR VS. ADP": -11
+  },
+  {
+    "RK": 98,
+    "Player": "Miles Boykin",
+    "TEAM": "BAL",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 36,
+    "ECR VS. ADP": -24
+  },
+  {
+    "RK": 99,
+    "Player": "Van Jefferson",
+    "TEAM": "LAR",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 30.8,
+    "ECR VS. ADP": "+8.0"
+  },
+  {
+    "RK": 100,
+    "Player": "Dontrelle Inman",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 34.4,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 101,
+    "Player": "Jalen Guyton",
+    "TEAM": "LAC",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 29.4,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 102,
+    "Player": "Michael Pittman Jr.",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 28.7,
+    "ECR VS. ADP": "+42.0"
+  },
+  {
+    "RK": 103,
+    "Player": "Donovan Peoples-Jones",
+    "TEAM": "CLE",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 28.7,
+    "ECR VS. ADP": -20
   },
   {
     "RK": 104,
@@ -950,215 +932,224 @@
     "TEAM": "CHI",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 32,
+    "FPTS": 28,
     "ECR VS. ADP": "+4.0"
   },
   {
     "RK": 105,
-    "Player": "Tyron Johnson",
-    "TEAM": "LAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 31.2,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 107,
-    "Player": "Kendrick Bourne",
-    "TEAM": "SF",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 30.4,
-    "ECR VS. ADP": "+25.0"
-  },
-  {
-    "RK": 113,
-    "Player": "Dez Bryant",
-    "TEAM": "BAL",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 29.7,
-    "ECR VS. ADP": "+11.0"
-  },
-  {
-    "RK": 114,
-    "Player": "Josh Gordon",
-    "TEAM": "SEA",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 29.7,
-    "ECR VS. ADP": "+31.0"
-  },
-  {
-    "RK": 109,
-    "Player": "Devin Duvernay",
-    "TEAM": "BAL",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 28.8,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 110,
-    "Player": "Parris Campbell",
-    "TEAM": "IND",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 27.2,
-    "ECR VS. ADP": "+42.0"
-  },
-  {
-    "RK": 111,
-    "Player": "Michael Pittman Jr.",
-    "TEAM": "IND",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 27.2,
-    "ECR VS. ADP": "+51.0"
-  },
-  {
-    "RK": 112,
-    "Player": "Braxton Berrios",
-    "TEAM": "NYJ",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 27.2,
-    "ECR VS. ADP": -66
-  },
-  {
-    "RK": 116,
-    "Player": "DaeSean Hamilton",
-    "TEAM": "DEN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 27,
-    "ECR VS. ADP": -51
-  },
-  {
-    "RK": 117,
-    "Player": "Kalif Raymond",
-    "TEAM": "TEN",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 27,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 115,
-    "Player": "Jeff Smith",
-    "TEAM": "NYJ",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 25.6,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 120,
-    "Player": "Jakeem Grant",
-    "TEAM": "MIA",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 25.2,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 118,
-    "Player": "Auden Tate",
-    "TEAM": "CIN",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 24,
-    "ECR VS. ADP": "+31.0"
-  },
-  {
-    "RK": 119,
     "Player": "Kenny Stills",
     "TEAM": "HOU",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 22.4,
-    "ECR VS. ADP": "+40.0"
+    "FPTS": 31.2,
+    "ECR VS. ADP": "+26.0"
   },
   {
-    "RK": 121,
-    "Player": "Quintez Cephus",
-    "TEAM": "DET",
+    "RK": 106,
+    "Player": "Chris Conley",
+    "TEAM": "JAC",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 30.4,
+    "ECR VS. ADP": -12
+  },
+  {
+    "RK": 107,
+    "Player": "DaeSean Hamilton",
+    "TEAM": "DEN",
     "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 19.2,
-    "ECR VS. ADP": -38
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 30.4,
+    "ECR VS. ADP": -60
   },
   {
-    "RK": 124,
+    "RK": 108,
+    "Player": "Bryan Edwards",
+    "TEAM": "LV",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 25.2,
+    "ECR VS. ADP": "+37.0"
+  },
+  {
+    "RK": 109,
+    "Player": "Olamide Zaccheaus",
+    "TEAM": "ATL",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 25.2,
+    "ECR VS. ADP": -46
+  },
+  {
+    "RK": 110,
+    "Player": "Marquez Callaway",
+    "TEAM": "NO",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 23.8,
+    "ECR VS. ADP": -69
+  },
+  {
+    "RK": 111,
+    "Player": "Braxton Berrios",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 23.8,
+    "ECR VS. ADP": -67
+  },
+  {
+    "RK": 112,
+    "Player": "Jeff Smith",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 23.8,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 113,
+    "Player": "Parris Campbell",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 23.1,
+    "ECR VS. ADP": "+45.0"
+  },
+  {
+    "RK": 114,
+    "Player": "Steven Sims",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 26.4,
+    "ECR VS. ADP": "+29.0"
+  },
+  {
+    "RK": 115,
     "Player": "Marvin Hall",
     "TEAM": "DET",
     "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 18,
+    "FPTS": 25.6,
     "ECR VS. ADP": "-"
   },
   {
-    "RK": 122,
+    "RK": 116,
+    "Player": "DeSean Jackson",
+    "TEAM": "PHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 21,
+    "ECR VS. ADP": "+60.0"
+  },
+  {
+    "RK": 117,
+    "Player": "Devin Duvernay",
+    "TEAM": "BAL",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 21,
+    "ECR VS. ADP": "+12.0"
+  },
+  {
+    "RK": 118,
+    "Player": "Kalif Raymond",
+    "TEAM": "TEN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 24,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 119,
+    "Player": "John Ross",
+    "TEAM": "CIN",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 19.6,
+    "ECR VS. ADP": "+25.0"
+  },
+  {
+    "RK": 120,
     "Player": "Cedrick Wilson",
     "TEAM": "DAL",
     "SOS SEASON": "4 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 17.6,
-    "ECR VS. ADP": -20
+    "FPTS": 19.6,
+    "ECR VS. ADP": -22
   },
   {
-    "RK": 127,
-    "Player": "Olabisi Johnson",
-    "TEAM": "MIN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 17.1,
-    "ECR VS. ADP": -12
+    "RK": 121,
+    "Player": "Auden Tate",
+    "TEAM": "CIN",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 16.8,
+    "ECR VS. ADP": "+34.0"
   },
   {
-    "RK": 128,
-    "Player": "Jakobi Meyers",
-    "TEAM": "NE",
+    "RK": 122,
+    "Player": "Josh Gordon",
+    "TEAM": "SEA",
     "SOS SEASON": "1 out of 5 stars",
     "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 17.1,
-    "ECR VS. ADP": -17
+    "FPTS": 17.6,
+    "ECR VS. ADP": "+39.0"
   },
   {
     "RK": 123,
-    "Player": "Olamide Zaccheaus",
-    "TEAM": "ATL",
+    "Player": "Quintez Cephus",
+    "TEAM": "DET",
     "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 16.8,
-    "ECR VS. ADP": -32
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 14.7,
+    "ECR VS. ADP": -36
+  },
+  {
+    "RK": 124,
+    "Player": "Olabisi Johnson",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 16,
+    "ECR VS. ADP": -15
   },
   {
     "RK": 125,
-    "Player": "Chris Conley",
-    "TEAM": "JAC",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
+    "Player": "Jakeem Grant",
+    "TEAM": "MIA",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
     "FPTS": 16,
-    "ECR VS. ADP": "+7.0"
+    "ECR VS. ADP": "-"
   },
   {
     "RK": 126,
+    "Player": "Dez Bryant",
+    "TEAM": "BAL",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 16,
+    "ECR VS. ADP": "+24.0"
+  },
+  {
+    "RK": 127,
     "Player": "Antonio Gandy-Golden",
     "TEAM": "WAS",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 16,
-    "ECR VS. ADP": -17
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 13.3,
+    "ECR VS. ADP": -16
   },
   {
-    "RK": 132,
-    "Player": "Tajae Sharpe",
-    "TEAM": "MIN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 15.3,
-    "ECR VS. ADP": -9
+    "RK": 128,
+    "Player": "Isaiah McKenzie",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 13.3,
+    "ECR VS. ADP": "-"
   },
   {
     "RK": 129,
@@ -1166,151 +1157,592 @@
     "TEAM": "NYJ",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 14.4,
+    "FPTS": 12.6,
     "ECR VS. ADP": "-"
   },
   {
     "RK": 130,
-    "Player": "Ted Ginn Jr.",
-    "TEAM": "CHI",
+    "Player": "John Hightower",
+    "TEAM": "PHI",
     "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 14.4,
-    "ECR VS. ADP": -24
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 12.6,
+    "ECR VS. ADP": -44
   },
   {
     "RK": 131,
-    "Player": "Dante Pettis",
-    "TEAM": "SF",
+    "Player": "Equanimeous St. Brown",
+    "TEAM": "GB",
     "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 14.4,
-    "ECR VS. ADP": -6
+    "ECR VS. ADP": -29
   },
   {
-    "RK": 134,
-    "Player": "Phillip Dorsett II",
-    "TEAM": "SEA",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 14.4,
-    "ECR VS. ADP": "+2.0"
-  },
-  {
-    "RK": 133,
+    "RK": 132,
     "Player": "Justin Watson",
     "TEAM": "TB",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 13.6,
-    "ECR VS. ADP": "+34.0"
+    "FPTS": 11.9,
+    "ECR VS. ADP": "+33.0"
   },
   {
-    "RK": 139,
-    "Player": "Equanimeous St. Brown",
-    "TEAM": "GB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 13.5,
-    "ECR VS. ADP": -21
+    "RK": 133,
+    "Player": "Phillip Dorsett II",
+    "TEAM": "SEA",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 13.6,
+    "ECR VS. ADP": "+1.0"
+  },
+  {
+    "RK": 134,
+    "Player": "Ted Ginn Jr.",
+    "TEAM": "CHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 11.2,
+    "ECR VS. ADP": -20
   },
   {
     "RK": 135,
-    "Player": "Isaiah McKenzie",
-    "TEAM": "BUF",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 12.8,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 136,
     "Player": "K.J. Hill",
     "TEAM": "LAC",
     "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 12.8,
-    "ECR VS. ADP": "+19.0"
+    "FPTS": 11.2,
+    "ECR VS. ADP": "+18.0"
   },
   {
-    "RK": 137,
-    "Player": "Javon Wims",
-    "TEAM": "CHI",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 12.8,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 138,
-    "Player": "Trent Taylor",
-    "TEAM": "SF",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 12.8,
-    "ECR VS. ADP": -13
-  },
-  {
-    "RK": 140,
-    "Player": "Corey Coleman",
-    "TEAM": "NYG",
-    "SOS SEASON": "4 out of 5 stars",
+    "RK": 136,
+    "Player": "Tyron Johnson",
+    "TEAM": "LAC",
+    "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 12,
-    "ECR VS. ADP": -22
-  },
-  {
-    "RK": 141,
-    "Player": "Seth Roberts",
-    "TEAM": "FA",
-    "SOS SEASON": "-",
-    "SOS PLAYOFFS": "-",
-    "FPTS": 12,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 142,
-    "Player": "James Proche",
-    "TEAM": "BAL",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 12,
-    "ECR VS. ADP": -21
-  },
-  {
-    "RK": 143,
-    "Player": "Paul Richardson Jr.",
-    "TEAM": "FA",
-    "SOS SEASON": "-",
-    "SOS PLAYOFFS": "-",
     "FPTS": 11.2,
     "ECR VS. ADP": "-"
   },
   {
+    "RK": 137,
+    "Player": "Trent Taylor",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 11.2,
+    "ECR VS. ADP": -14
+  },
+  {
+    "RK": 138,
+    "Player": "Javon Wims",
+    "TEAM": "CHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 11.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 139,
+    "Player": "Isaiah Wright",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 10.5,
+    "ECR VS. ADP": "+43.0"
+  },
+  {
+    "RK": 140,
+    "Player": "Dante Pettis",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 10.5,
+    "ECR VS. ADP": "+3.0"
+  },
+  {
+    "RK": 141,
+    "Player": "Tajae Sharpe",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 12,
+    "ECR VS. ADP": 0
+  },
+  {
+    "RK": 142,
+    "Player": "Tyler Johnson",
+    "TEAM": "TB",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 10.5,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 143,
+    "Player": "Zay Jones",
+    "TEAM": "LV",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 9.8,
+    "ECR VS. ADP": -15
+  },
+  {
     "RK": 144,
-    "Player": "Trey Quinn",
+    "Player": "Collin Johnson",
     "TEAM": "JAC",
     "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 9.8,
+    "ECR VS. ADP": -28
+  },
+  {
+    "RK": 145,
+    "Player": "Seth Roberts",
+    "TEAM": "GB",
+    "SOS SEASON": "2 out of 5 stars",
     "SOS PLAYOFFS": "3 out of 5 stars",
     "FPTS": 11.2,
     "ECR VS. ADP": "-"
   },
   {
-    "RK": 145,
-    "Player": "Laquon Treadwell",
+    "RK": 146,
+    "Player": "James Proche",
+    "TEAM": "BAL",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 9.1,
+    "ECR VS. ADP": -17
+  },
+  {
+    "RK": 147,
+    "Player": "Byron Pringle",
+    "TEAM": "KC",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 8.4,
+    "ECR VS. ADP": "+26.0"
+  },
+  {
+    "RK": 148,
+    "Player": "JJ Arcega-Whiteside",
+    "TEAM": "PHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 8.4,
+    "ECR VS. ADP": "+56.0"
+  },
+  {
+    "RK": 149,
+    "Player": "Corey Coleman",
+    "TEAM": "NYG",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 8.4,
+    "ECR VS. ADP": -13
+  },
+  {
+    "RK": 150,
+    "Player": "Christian Blake",
     "TEAM": "ATL",
-    "SOS SEASON": "2 out of 5 stars",
+    "SOS SEASON": "3 out of 5 stars",
     "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 11.2,
+    "FPTS": 8.4,
     "ECR VS. ADP": "-"
   },
   {
-    "RK": 146,
+    "RK": 151,
+    "Player": "Trey Quinn",
+    "TEAM": "JAC",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 9.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 152,
     "Player": "Hakeem Butler",
     "TEAM": "PHI",
     "SOS SEASON": "5 out of 5 stars",
     "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 10.4,
-    "ECR VS. ADP": -11
+    "FPTS": 7.7,
+    "ECR VS. ADP": -5
+  },
+  {
+    "RK": 153,
+    "Player": "Laquon Treadwell",
+    "TEAM": "ATL",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 7.7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 154,
+    "Player": "Alex Erickson",
+    "TEAM": "CIN",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 7.7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 155,
+    "Player": "Paul Richardson Jr.",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 156,
+    "Player": "Vyncint Smith",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 157,
+    "Player": "Joe Reed",
+    "TEAM": "LAC",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 158,
+    "Player": "Darrius Shepherd",
+    "TEAM": "GB",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 159,
+    "Player": "Richie James Jr.",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 160,
+    "Player": "Mohamed Sanu",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 7,
+    "ECR VS. ADP": "+82.0"
+  },
+  {
+    "RK": 161,
+    "Player": "Damion Ratley",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 7,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 162,
+    "Player": "KeeSean Johnson",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 6.3,
+    "ECR VS. ADP": -4
+  },
+  {
+    "RK": 163,
+    "Player": "Deonte Harris",
+    "TEAM": "NO",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 6.3,
+    "ECR VS. ADP": "+53.0"
+  },
+  {
+    "RK": 164,
+    "Player": "Riley Ridley",
+    "TEAM": "CHI",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 6.3,
+    "ECR VS. ADP": "+38.0"
+  },
+  {
+    "RK": 165,
+    "Player": "Gunner Olszewski",
+    "TEAM": "NE",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 6.3,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 166,
+    "Player": "Taylor Gabriel",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 5.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 167,
+    "Player": "Keke Coutee",
+    "TEAM": "HOU",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 5.6,
+    "ECR VS. ADP": "+3.0"
+  },
+  {
+    "RK": 168,
+    "Player": "Cam Sims",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 5.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 169,
+    "Player": "Malik Turner",
+    "TEAM": "DAL",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 5.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 170,
+    "Player": "Isaiah Coulter",
+    "TEAM": "HOU",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 5.6,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 171,
+    "Player": "Demaryius Thomas",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 4.9,
+    "ECR VS. ADP": -6
+  },
+  {
+    "RK": 172,
+    "Player": "Chad Beebe",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "+16.0"
+  },
+  {
+    "RK": 173,
+    "Player": "Mack Hollins",
+    "TEAM": "MIA",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 174,
+    "Player": "Taywan Taylor",
+    "TEAM": "CLE",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 175,
+    "Player": "K.J. Osborn",
+    "TEAM": "MIN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 176,
+    "Player": "Keelan Doss",
+    "TEAM": "LV",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 177,
+    "Player": "Pharoh Cooper",
+    "TEAM": "CAR",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "+37.0"
+  },
+  {
+    "RK": 178,
+    "Player": "Dezmon Patmon",
+    "TEAM": "IND",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 4.9,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 179,
+    "Player": "Duke Williams",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 180,
+    "Player": "Devin Ross",
+    "TEAM": "NE",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "1 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 181,
+    "Player": "Trent Sherfield",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 182,
+    "Player": "Jake Kumerow",
+    "TEAM": "BUF",
+    "SOS SEASON": "4 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 183,
+    "Player": "Robert Foster",
+    "TEAM": "WAS",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 184,
+    "Player": "Chris Moore",
+    "TEAM": "BAL",
+    "SOS SEASON": "5 out of 5 stars",
+    "SOS PLAYOFFS": "5 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 185,
+    "Player": "Justin Hardy",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 186,
+    "Player": "Andre Patton",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 187,
+    "Player": "Deon Cain",
+    "TEAM": "PIT",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 188,
+    "Player": "Jaron Brown",
+    "TEAM": "ARI",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "+12.0"
+  },
+  {
+    "RK": 189,
+    "Player": "Jauan Jennings",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "+58.0"
+  },
+  {
+    "RK": 190,
+    "Player": "Chester Rogers",
+    "TEAM": "TEN",
+    "SOS SEASON": "2 out of 5 stars",
+    "SOS PLAYOFFS": "3 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 191,
+    "Player": "Donte Moncrief",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 192,
+    "Player": "Kevin White",
+    "TEAM": "SF",
+    "SOS SEASON": "1 out of 5 stars",
+    "SOS PLAYOFFS": "2 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 193,
+    "Player": "Jaleel Scott",
+    "TEAM": "NYJ",
+    "SOS SEASON": "3 out of 5 stars",
+    "SOS PLAYOFFS": "4 out of 5 stars",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
+  },
+  {
+    "RK": 194,
+    "Player": "Jarius Wright",
+    "TEAM": "FA",
+    "SOS SEASON": "-",
+    "SOS PLAYOFFS": "-",
+    "FPTS": 4.2,
+    "ECR VS. ADP": "-"
   }
 ]
