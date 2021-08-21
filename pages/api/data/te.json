@@ -1,560 +1,1262 @@
 [
   {
-    "RK": 1,
     "Player": "Travis Kelce",
-    "TEAM": "KC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 112.7,
-    "ECR VS. ADP": 0
+    "Team": "KC",
+    "REC": 112.4,
+    "YDS": "1,399.3",
+    "TDS": 10.2,
+    "FL": 0.8,
+    "FPTS": 312.2
   },
   {
-    "RK": 2,
     "Player": "Darren Waller",
-    "TEAM": "LV",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 117.6,
-    "ECR VS. ADP": -3
+    "Team": "LV",
+    "REC": 100.3,
+    "YDS": "1,144.8",
+    "TDS": 7.1,
+    "FL": 0.9,
+    "FPTS": 255.9
   },
   {
-    "RK": 3,
-    "Player": "Mark Andrews",
-    "TEAM": "BAL",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 104,
-    "ECR VS. ADP": 0
-  },
-  {
-    "RK": 4,
-    "Player": "T.J. Hockenson",
-    "TEAM": "DET",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 96.8,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 5,
-    "Player": "Hunter Henry",
-    "TEAM": "LAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 95.2,
-    "ECR VS. ADP": -2
-  },
-  {
-    "RK": 6,
-    "Player": "Noah Fant",
-    "TEAM": "DEN",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 83.2,
-    "ECR VS. ADP": -6
-  },
-  {
-    "RK": 7,
-    "Player": "Rob Gronkowski",
-    "TEAM": "TB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 69.3,
-    "ECR VS. ADP": -1
-  },
-  {
-    "RK": 8,
-    "Player": "Jonnu Smith",
-    "TEAM": "TEN",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 78.4,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 9,
-    "Player": "Dallas Goedert",
-    "TEAM": "PHI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 67.2,
-    "ECR VS. ADP": -7
-  },
-  {
-    "RK": 10,
-    "Player": "Hayden Hurst",
-    "TEAM": "ATL",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 63.7,
-    "ECR VS. ADP": -3
-  },
-  {
-    "RK": 11,
-    "Player": "Jared Cook",
-    "TEAM": "NO",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 72.8,
-    "ECR VS. ADP": "+1.0"
-  },
-  {
-    "RK": 12,
-    "Player": "Robert Tonyan",
-    "TEAM": "GB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 72.8,
-    "ECR VS. ADP": -57
-  },
-  {
-    "RK": 13,
-    "Player": "Evan Engram",
-    "TEAM": "NYG",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 62.3,
-    "ECR VS. ADP": "+7.0"
-  },
-  {
-    "RK": 14,
-    "Player": "Trey Burton",
-    "TEAM": "IND",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 70.4,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 15,
-    "Player": "Eric Ebron",
-    "TEAM": "PIT",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 68.8,
-    "ECR VS. ADP": -2
-  },
-  {
-    "RK": 16,
-    "Player": "Mike Gesicki",
-    "TEAM": "MIA",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 67.2,
-    "ECR VS. ADP": "+1.0"
-  },
-  {
-    "RK": 17,
-    "Player": "Austin Hooper",
-    "TEAM": "CLE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 57.4,
-    "ECR VS. ADP": "+6.0"
-  },
-  {
-    "RK": 18,
-    "Player": "Logan Thomas",
-    "TEAM": "WAS",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 65.6,
-    "ECR VS. ADP": -31
-  },
-  {
-    "RK": 19,
-    "Player": "Jimmy Graham",
-    "TEAM": "CHI",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 57.4,
-    "ECR VS. ADP": -6
-  },
-  {
-    "RK": 20,
-    "Player": "Dalton Schultz",
-    "TEAM": "DAL",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 55.3,
-    "ECR VS. ADP": -44
-  },
-  {
-    "RK": 21,
-    "Player": "Zach Ertz",
-    "TEAM": "PHI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 53.2,
-    "ECR VS. ADP": "+17.0"
-  },
-  {
-    "RK": 22,
-    "Player": "Irv Smith Jr.",
-    "TEAM": "MIN",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 59.2,
-    "ECR VS. ADP": -4
-  },
-  {
-    "RK": 23,
-    "Player": "Tyler Higbee",
-    "TEAM": "LAR",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 46.2,
-    "ECR VS. ADP": "+14.0"
-  },
-  {
-    "RK": 24,
-    "Player": "Jordan Akins",
-    "TEAM": "HOU",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 52.8,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 25,
-    "Player": "Gerald Everett",
-    "TEAM": "LAR",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 45.5,
-    "ECR VS. ADP": -12
-  },
-  {
-    "RK": 26,
-    "Player": "Drew Sample",
-    "TEAM": "CIN",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 44.1,
-    "ECR VS. ADP": -28
-  },
-  {
-    "RK": 27,
-    "Player": "Greg Olsen",
-    "TEAM": "SEA",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 48.8,
-    "ECR VS. ADP": "+6.0"
-  },
-  {
-    "RK": 28,
-    "Player": "Jordan Reed",
-    "TEAM": "SF",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 42,
-    "ECR VS. ADP": -15
-  },
-  {
-    "RK": 29,
-    "Player": "Jack Doyle",
-    "TEAM": "IND",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 47.2,
-    "ECR VS. ADP": "+10.0"
-  },
-  {
-    "RK": 30,
-    "Player": "Harrison Bryant",
-    "TEAM": "CLE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 40.6,
-    "ECR VS. ADP": -35
-  },
-  {
-    "RK": 31,
-    "Player": "Darren Fells",
-    "TEAM": "HOU",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 43.2,
-    "ECR VS. ADP": -10
-  },
-  {
-    "RK": 32,
-    "Player": "Will Dissly",
-    "TEAM": "SEA",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 42.4,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 33,
     "Player": "George Kittle",
-    "TEAM": "SF",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 36.4,
-    "ECR VS. ADP": "+31.0"
+    "Team": "SF",
+    "REC": 96.1,
+    "YDS": "1,201.2",
+    "TDS": 6.5,
+    "FL": 0.7,
+    "FPTS": 254.1
   },
   {
-    "RK": 34,
-    "Player": "Mo Alie-Cox",
-    "TEAM": "IND",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 40.8,
-    "ECR VS. ADP": -51
+    "Player": "Mark Andrews",
+    "Team": "BAL",
+    "REC": 70.6,
+    "YDS": 853.9,
+    "TDS": 8.2,
+    "FL": 0.9,
+    "FPTS": 203.1
   },
   {
-    "RK": 35,
-    "Player": "Ross Dwelley",
-    "TEAM": "SF",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 35,
-    "ECR VS. ADP": "-"
+    "Player": "Kyle Pitts",
+    "Team": "ATL",
+    "REC": 69.8,
+    "YDS": 843.2,
+    "TDS": 6.4,
+    "FL": 1.2,
+    "FPTS": 190
   },
   {
-    "RK": 36,
-    "Player": "Tyler Eifert",
-    "TEAM": "JAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 36.8,
-    "ECR VS. ADP": "+7.0"
+    "Player": "T.J. Hockenson",
+    "Team": "DET",
+    "REC": 75.4,
+    "YDS": 835.7,
+    "TDS": 5.2,
+    "FL": 0.8,
+    "FPTS": 188.7
   },
   {
-    "RK": 37,
+    "Player": "Logan Thomas",
+    "Team": "WAS",
+    "REC": 64.9,
+    "YDS": 666.9,
+    "TDS": 5.3,
+    "FL": 0.6,
+    "FPTS": 161.9
+  },
+  {
+    "Player": "Tyler Higbee",
+    "Team": "LAR",
+    "REC": 61,
+    "YDS": 681.4,
+    "TDS": 5.3,
+    "FL": 0.6,
+    "FPTS": 160
+  },
+  {
+    "Player": "Noah Fant",
+    "Team": "DEN",
+    "REC": 62.2,
+    "YDS": 692.3,
+    "TDS": 4.5,
+    "FL": 0.7,
+    "FPTS": 156.8
+  },
+  {
+    "Player": "Dallas Goedert",
+    "Team": "PHI",
+    "REC": 61.7,
+    "YDS": 679.7,
+    "TDS": 4.7,
+    "FL": 0.7,
+    "FPTS": 156.2
+  },
+  {
+    "Player": "Robert Tonyan",
+    "Team": "GB",
+    "REC": 55.6,
+    "YDS": 609.6,
+    "TDS": 6.4,
+    "FL": 0.1,
+    "FPTS": 154.9
+  },
+  {
+    "Player": "Mike Gesicki",
+    "Team": "MIA",
+    "REC": 55.3,
+    "YDS": 618.6,
+    "TDS": 5.2,
+    "FL": 0.7,
+    "FPTS": 147.3
+  },
+  {
+    "Player": "Irv Smith Jr.",
+    "Team": "MIN",
+    "REC": 52.6,
+    "YDS": 582.1,
+    "TDS": 5.6,
+    "FL": 0.7,
+    "FPTS": 142.8
+  },
+  {
+    "Player": "Jonnu Smith",
+    "Team": "NE",
+    "REC": 54.6,
+    "YDS": 570.9,
+    "TDS": 4.7,
+    "FL": 0.7,
+    "FPTS": 138.3
+  },
+  {
+    "Player": "Evan Engram",
+    "Team": "NYG",
+    "REC": 57.5,
+    "YDS": 583,
+    "TDS": 3.6,
+    "FL": 0.7,
+    "FPTS": 136.2
+  },
+  {
+    "Player": "Eric Ebron",
+    "Team": "PIT",
+    "REC": 55.4,
+    "YDS": 546.3,
+    "TDS": 4.5,
+    "FL": 0.7,
+    "FPTS": 135.6
+  },
+  {
+    "Player": "Hunter Henry",
+    "Team": "NE",
+    "REC": 53.2,
+    "YDS": 576.6,
+    "TDS": 4,
+    "FL": 0.6,
+    "FPTS": 133.3
+  },
+  {
+    "Player": "Jared Cook",
+    "Team": "LAC",
+    "REC": 46,
+    "YDS": 575.9,
+    "TDS": 5.1,
+    "FL": 0.6,
+    "FPTS": 133
+  },
+  {
+    "Player": "Blake Jarwin",
+    "Team": "DAL",
+    "REC": 50.9,
+    "YDS": 574.7,
+    "TDS": 4.2,
+    "FL": 0.7,
+    "FPTS": 132.1
+  },
+  {
     "Player": "Anthony Firkser",
-    "TEAM": "TEN",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 36.8,
-    "ECR VS. ADP": "-"
+    "Team": "TEN",
+    "REC": 51,
+    "YDS": 545.9,
+    "TDS": 4.2,
+    "FL": 0.1,
+    "FPTS": 130.3
   },
   {
-    "RK": 38,
-    "Player": "David Njoku",
-    "TEAM": "CLE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 31.5,
-    "ECR VS. ADP": "+11.0"
-  },
-  {
-    "RK": 39,
-    "Player": "Dawson Knox",
-    "TEAM": "BUF",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 30.1,
-    "ECR VS. ADP": "+5.0"
-  },
-  {
-    "RK": 40,
-    "Player": "Richard Rodgers",
-    "TEAM": "PHI",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 28.7,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 41,
-    "Player": "Chris Herndon IV",
-    "TEAM": "NYJ",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 28,
-    "ECR VS. ADP": "+19.0"
-  },
-  {
-    "RK": 42,
-    "Player": "Kyle Rudolph",
-    "TEAM": "MIN",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 30.4,
-    "ECR VS. ADP": "+19.0"
-  },
-  {
-    "RK": 43,
-    "Player": "Cameron Brate",
-    "TEAM": "TB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 25.2,
-    "ECR VS. ADP": "+5.0"
-  },
-  {
-    "RK": 44,
-    "Player": "Ian Thomas",
-    "TEAM": "CAR",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 24.5,
-    "ECR VS. ADP": "+14.0"
-  },
-  {
-    "RK": 45,
-    "Player": "Jace Sternberger",
-    "TEAM": "GB",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 24.5,
-    "ECR VS. ADP": "+14.0"
-  },
-  {
-    "RK": 46,
-    "Player": "Albert Okwuegbunam",
-    "TEAM": "DEN",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 23.8,
-    "ECR VS. ADP": -15
-  },
-  {
-    "RK": 47,
-    "Player": "Cole Kmet",
-    "TEAM": "CHI",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 22.4,
-    "ECR VS. ADP": "+14.0"
-  },
-  {
-    "RK": 48,
-    "Player": "Tyler Kroft",
-    "TEAM": "BUF",
-    "SOS SEASON": "1 out of 5 stars",
-    "SOS PLAYOFFS": "0 out of 5 stars",
-    "FPTS": 22.4,
-    "ECR VS. ADP": -35
-  },
-  {
-    "RK": 49,
-    "Player": "Devin Asiasi",
-    "TEAM": "NE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 22.4,
-    "ECR VS. ADP": "+17.0"
-  },
-  {
-    "RK": 50,
-    "Player": "Nick Boyle",
-    "TEAM": "BAL",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 23.2,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 51,
-    "Player": "Dan Arnold",
-    "TEAM": "ARI",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 21.6,
-    "ECR VS. ADP": "+11.0"
-  },
-  {
-    "RK": 52,
-    "Player": "James O'Shaughnessy",
-    "TEAM": "JAC",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "5 out of 5 stars",
-    "FPTS": 21.6,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 53,
-    "Player": "Vance McDonald",
-    "TEAM": "PIT",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 21.6,
-    "ECR VS. ADP": "+17.0"
-  },
-  {
-    "RK": 54,
-    "Player": "Ryan Izzo",
-    "TEAM": "NE",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 18.2,
-    "ECR VS. ADP": -30
-  },
-  {
-    "RK": 55,
-    "Player": "Kaden Smith",
-    "TEAM": "NYG",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 18.2,
-    "ECR VS. ADP": "+4.0"
-  },
-  {
-    "RK": 56,
-    "Player": "Jacob Hollister",
-    "TEAM": "SEA",
-    "SOS SEASON": "5 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 16.8,
-    "ECR VS. ADP": "+12.0"
-  },
-  {
-    "RK": 57,
-    "Player": "Jesse James",
-    "TEAM": "DET",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 19.2,
-    "ECR VS. ADP": -9
-  },
-  {
-    "RK": 58,
-    "Player": "MyCole Pruitt",
-    "TEAM": "TEN",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "2 out of 5 stars",
-    "FPTS": 19.2,
-    "ECR VS. ADP": "-"
-  },
-  {
-    "RK": 59,
-    "Player": "Jason Witten",
-    "TEAM": "LV",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 15.4,
-    "ECR VS. ADP": "+17.0"
-  },
-  {
-    "RK": 60,
     "Player": "Adam Trautman",
-    "TEAM": "NO",
-    "SOS SEASON": "4 out of 5 stars",
-    "SOS PLAYOFFS": "4 out of 5 stars",
-    "FPTS": 15.4,
-    "ECR VS. ADP": "+2.0"
+    "Team": "NO",
+    "REC": 50.5,
+    "YDS": 552.6,
+    "TDS": 4.1,
+    "FL": 0.7,
+    "FPTS": 129.2
   },
   {
-    "RK": 61,
-    "Player": "Ryan Griffin",
-    "TEAM": "NYJ",
-    "SOS SEASON": "2 out of 5 stars",
-    "SOS PLAYOFFS": "3 out of 5 stars",
-    "FPTS": 14.7,
-    "ECR VS. ADP": -13
+    "Player": "Rob Gronkowski",
+    "Team": "TB",
+    "REC": 41.1,
+    "YDS": 536.8,
+    "TDS": 5.6,
+    "FL": 0.2,
+    "FPTS": 128
   },
   {
-    "RK": 62,
+    "Player": "Austin Hooper",
+    "Team": "CLE",
+    "REC": 48.7,
+    "YDS": 487.3,
+    "TDS": 4.4,
+    "FL": 0.6,
+    "FPTS": 122.5
+  },
+  {
+    "Player": "Zach Ertz",
+    "Team": "PHI",
+    "REC": 49.9,
+    "YDS": 507,
+    "TDS": 3.5,
+    "FL": 0.6,
+    "FPTS": 120
+  },
+  {
+    "Player": "Cole Kmet",
+    "Team": "CHI",
+    "REC": 48.4,
+    "YDS": 480.9,
+    "TDS": 3.7,
+    "FL": 1.2,
+    "FPTS": 116.3
+  },
+  {
+    "Player": "Jordan Akins",
+    "Team": "HOU",
+    "REC": 44.4,
+    "YDS": 470.4,
+    "TDS": 2.8,
+    "FL": 0.1,
+    "FPTS": 108.3
+  },
+  {
+    "Player": "Gerald Everett",
+    "Team": "SEA",
+    "REC": 42,
+    "YDS": 432.7,
+    "TDS": 3.9,
+    "FL": 0.6,
+    "FPTS": 107.6
+  },
+  {
+    "Player": "Hayden Hurst",
+    "Team": "ATL",
+    "REC": 38.5,
+    "YDS": 405.3,
+    "TDS": 2.9,
+    "FL": 0.1,
+    "FPTS": 96.6
+  },
+  {
+    "Player": "C.J. Uzomah",
+    "Team": "CIN",
+    "REC": 36.8,
+    "YDS": 357.9,
+    "TDS": 3.3,
+    "FL": 0.1,
+    "FPTS": 91.9
+  },
+  {
+    "Player": "Dawson Knox",
+    "Team": "BUF",
+    "REC": 33.4,
+    "YDS": 384.2,
+    "TDS": 3.5,
+    "FL": 0.6,
+    "FPTS": 91.7
+  },
+  {
+    "Player": "Chris Herndon IV",
+    "Team": "NYJ",
+    "REC": 35.5,
+    "YDS": 357.2,
+    "TDS": 2.8,
+    "FL": 1.6,
+    "FPTS": 84.7
+  },
+  {
+    "Player": "Jack Doyle",
+    "Team": "IND",
+    "REC": 32.6,
+    "YDS": 336.6,
+    "TDS": 3,
+    "FL": 0.1,
+    "FPTS": 84.1
+  },
+  {
+    "Player": "Will Dissly",
+    "Team": "SEA",
+    "REC": 30.2,
+    "YDS": 317.5,
+    "TDS": 3,
+    "FL": 0.1,
+    "FPTS": 79.8
+  },
+  {
+    "Player": "Mo Alie-Cox",
+    "Team": "IND",
+    "REC": 31.5,
+    "YDS": 340.6,
+    "TDS": 2.4,
+    "FL": 0.6,
+    "FPTS": 79.1
+  },
+  {
+    "Player": "Donald Parham Jr.",
+    "Team": "LAC",
+    "REC": 28,
+    "YDS": 339.2,
+    "TDS": 2.5,
+    "FL": 0.1,
+    "FPTS": 76.7
+  },
+  {
+    "Player": "O.J. Howard",
+    "Team": "TB",
+    "REC": 26.7,
+    "YDS": 338.9,
+    "TDS": 2.5,
+    "FL": 0.7,
+    "FPTS": 74
+  },
+  {
+    "Player": "Dan Arnold",
+    "Team": "CAR",
+    "REC": 27.2,
+    "YDS": 342.2,
+    "TDS": 2.3,
+    "FL": 0.7,
+    "FPTS": 73.7
+  },
+  {
+    "Player": "Jacob Hollister",
+    "Team": "BUF",
+    "REC": 29.1,
+    "YDS": 264,
+    "TDS": 2.3,
+    "FL": 0.6,
+    "FPTS": 68.3
+  },
+  {
+    "Player": "Tyler Conklin",
+    "Team": "MIN",
+    "REC": 25.4,
+    "YDS": 267.1,
+    "TDS": 2,
+    "FL": 0.1,
+    "FPTS": 64.1
+  },
+  {
+    "Player": "David Njoku",
+    "Team": "CLE",
+    "REC": 23.4,
+    "YDS": 252.8,
+    "TDS": 2.6,
+    "FL": 0,
+    "FPTS": 64
+  },
+  {
+    "Player": "Jimmy Graham",
+    "Team": "CHI",
+    "REC": 23.2,
+    "YDS": 242.1,
+    "TDS": 2.6,
+    "FL": 0.1,
+    "FPTS": 62.9
+  },
+  {
+    "Player": "Stephen Carlson",
+    "Team": "CLE",
+    "REC": 20,
+    "YDS": 218,
+    "TDS": 3,
+    "FL": 0,
+    "FPTS": 59.8
+  },
+  {
+    "Player": "Dalton Schultz",
+    "Team": "DAL",
+    "REC": 23.4,
+    "YDS": 243.7,
+    "TDS": 2,
+    "FL": 0.1,
+    "FPTS": 59.7
+  },
+  {
+    "Player": "Nick Boyle",
+    "Team": "BAL",
+    "REC": 23.2,
+    "YDS": 215.8,
+    "TDS": 2.1,
+    "FL": 0,
+    "FPTS": 57.2
+  },
+  {
+    "Player": "Maxx Williams",
+    "Team": "ARI",
+    "REC": 21.3,
+    "YDS": 236,
+    "TDS": 2,
+    "FL": 0.1,
+    "FPTS": 56.5
+  },
+  {
+    "Player": "Drew Sample",
+    "Team": "CIN",
+    "REC": 24.6,
+    "YDS": 232,
+    "TDS": 1.4,
+    "FL": 0.6,
+    "FPTS": 55.1
+  },
+  {
+    "Player": "Kyle Rudolph",
+    "Team": "NYG",
+    "REC": 23.1,
+    "YDS": 212.3,
+    "TDS": 1.8,
+    "FL": 0.1,
+    "FPTS": 54.8
+  },
+  {
+    "Player": "Geoff Swaim",
+    "Team": "TEN",
+    "REC": 22.6,
+    "YDS": 211.3,
+    "TDS": 1.7,
+    "FL": 0.1,
+    "FPTS": 54
+  },
+  {
+    "Player": "Cameron Brate",
+    "Team": "TB",
+    "REC": 22,
+    "YDS": 206.1,
+    "TDS": 1.8,
+    "FL": 0,
+    "FPTS": 53.1
+  },
+  {
+    "Player": "James O'Shaughnessy",
+    "Team": "JAC",
+    "REC": 23.2,
+    "YDS": 228.7,
+    "TDS": 1,
+    "FL": 0.1,
+    "FPTS": 51.9
+  },
+  {
+    "Player": "Darren Fells",
+    "Team": "DET",
+    "REC": 18.2,
+    "YDS": 188.5,
+    "TDS": 1.6,
+    "FL": 0,
+    "FPTS": 46.5
+  },
+  {
+    "Player": "Harrison Bryant",
+    "Team": "CLE",
+    "REC": 18.2,
+    "YDS": 196.2,
+    "TDS": 1.8,
+    "FL": 1.1,
+    "FPTS": 46.2
+  },
+  {
+    "Player": "Pat Freiermuth",
+    "Team": "PIT",
+    "REC": 19.8,
+    "YDS": 178.1,
+    "TDS": 1.3,
+    "FL": 0.5,
+    "FPTS": 44.5
+  },
+  {
+    "Player": "Hunter Long",
+    "Team": "MIA",
+    "REC": 18.6,
+    "YDS": 175.7,
+    "TDS": 1.3,
+    "FL": 0.5,
+    "FPTS": 42.6
+  },
+  {
+    "Player": "Pharaoh Brown",
+    "Team": "HOU",
+    "REC": 16.6,
+    "YDS": 178.8,
+    "TDS": 1.3,
+    "FL": 0.1,
+    "FPTS": 42.3
+  },
+  {
     "Player": "Foster Moreau",
-    "TEAM": "LV",
-    "SOS SEASON": "3 out of 5 stars",
-    "SOS PLAYOFFS": "1 out of 5 stars",
-    "FPTS": 14.7,
-    "ECR VS. ADP": -16
+    "Team": "LV",
+    "REC": 13.9,
+    "YDS": 152.1,
+    "TDS": 2.1,
+    "FL": 0.1,
+    "FPTS": 41.8
+  },
+  {
+    "Player": "Ian Thomas",
+    "Team": "CAR",
+    "REC": 17.7,
+    "YDS": 157.2,
+    "TDS": 1.3,
+    "FL": 0,
+    "FPTS": 40.9
+  },
+  {
+    "Player": "Adam Shaheen",
+    "Team": "MIA",
+    "REC": 15.4,
+    "YDS": 157.2,
+    "TDS": 1.8,
+    "FL": 1,
+    "FPTS": 39.8
+  },
+  {
+    "Player": "Tyler Kroft",
+    "Team": "NYJ",
+    "REC": 14.6,
+    "YDS": 148.2,
+    "TDS": 1.7,
+    "FL": 0.1,
+    "FPTS": 39.3
+  },
+  {
+    "Player": "Albert Okwuegbunam",
+    "Team": "DEN",
+    "REC": 15.4,
+    "YDS": 161.2,
+    "TDS": 1.3,
+    "FL": 0.1,
+    "FPTS": 39.1
+  },
+  {
+    "Player": "Ryan Izzo",
+    "Team": "HOU",
+    "REC": 12.9,
+    "YDS": 212.9,
+    "TDS": 1,
+    "FL": 1,
+    "FPTS": 38.2
+  },
+  {
+    "Player": "Chris Manhertz",
+    "Team": "JAC",
+    "REC": 15.9,
+    "YDS": 158.4,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 37.7
+  },
+  {
+    "Player": "Noah Gray",
+    "Team": "KC",
+    "REC": 14.4,
+    "YDS": 146.7,
+    "TDS": 1.1,
+    "FL": 0.5,
+    "FPTS": 34.8
+  },
+  {
+    "Player": "Matt Sokol",
+    "Team": "LAC",
+    "REC": 13,
+    "YDS": 140,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 33
+  },
+  {
+    "Player": "Kahale Warring",
+    "Team": "HOU",
+    "REC": 13.5,
+    "YDS": 138.5,
+    "TDS": 0.9,
+    "FL": 0,
+    "FPTS": 32.5
+  },
+  {
+    "Player": "Brevin Jordan",
+    "Team": "HOU",
+    "REC": 12.8,
+    "YDS": 131.3,
+    "TDS": 1.2,
+    "FL": 0.5,
+    "FPTS": 32.1
+  },
+  {
+    "Player": "Marcedes Lewis",
+    "Team": "GB",
+    "REC": 11.5,
+    "YDS": 121.3,
+    "TDS": 1.4,
+    "FL": 0,
+    "FPTS": 32
+  },
+  {
+    "Player": "Kyle Markway",
+    "Team": "LAR",
+    "REC": 13,
+    "YDS": 130,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 32
+  },
+  {
+    "Player": "Thaddeus Moss",
+    "Team": "CIN",
+    "REC": 13,
+    "YDS": 121,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 31.1
+  },
+  {
+    "Player": "Reggie Gilliam",
+    "Team": "BUF",
+    "REC": 11,
+    "YDS": 77,
+    "TDS": 2,
+    "FL": 0,
+    "FPTS": 30.7
+  },
+  {
+    "Player": "Kylen Granson",
+    "Team": "IND",
+    "REC": 13.1,
+    "YDS": 136.5,
+    "TDS": 0.7,
+    "FL": 0.1,
+    "FPTS": 30.5
+  },
+  {
+    "Player": "Luke Farrell",
+    "Team": "JAC",
+    "REC": 13.8,
+    "YDS": 130,
+    "TDS": 0.7,
+    "FL": 0.5,
+    "FPTS": 29.9
+  },
+  {
+    "Player": "Durham Smythe",
+    "Team": "MIA",
+    "REC": 13.1,
+    "YDS": 108,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 29.5
+  },
+  {
+    "Player": "Brycen Hopkins",
+    "Team": "LAR",
+    "REC": 12.5,
+    "YDS": 127.8,
+    "TDS": 0.7,
+    "FL": 0.1,
+    "FPTS": 29.4
+  },
+  {
+    "Player": "Juwan Johnson",
+    "Team": "NO",
+    "REC": 11.1,
+    "YDS": 127.2,
+    "TDS": 0.9,
+    "FL": 0.1,
+    "FPTS": 29.2
+  },
+  {
+    "Player": "Jacob Harris",
+    "Team": "LAR",
+    "REC": 10.7,
+    "YDS": 136.9,
+    "TDS": 0.8,
+    "FL": 0,
+    "FPTS": 29
+  },
+  {
+    "Player": "Ryan Griffin",
+    "Team": "NYJ",
+    "REC": 11.2,
+    "YDS": 106.5,
+    "TDS": 1.2,
+    "FL": 0,
+    "FPTS": 28.8
+  },
+  {
+    "Player": "Darrell Daniels",
+    "Team": "ARI",
+    "REC": 11.3,
+    "YDS": 121.8,
+    "TDS": 0.9,
+    "FL": 0.1,
+    "FPTS": 28.7
+  },
+  {
+    "Player": "Ross Dwelley",
+    "Team": "SF",
+    "REC": 11.4,
+    "YDS": 119.8,
+    "TDS": 0.9,
+    "FL": 0,
+    "FPTS": 28.5
+  },
+  {
+    "Player": "John Bates",
+    "Team": "WAS",
+    "REC": 12.4,
+    "YDS": 119.1,
+    "TDS": 0.8,
+    "FL": 0.5,
+    "FPTS": 27.8
+  },
+  {
+    "Player": "Hunter Bryant",
+    "Team": "DET",
+    "REC": 10.4,
+    "YDS": 122.8,
+    "TDS": 0.8,
+    "FL": 0,
+    "FPTS": 27.6
+  },
+  {
+    "Player": "Devin Asiasi",
+    "Team": "NE",
+    "REC": 10.4,
+    "YDS": 117,
+    "TDS": 1.1,
+    "FL": 0.5,
+    "FPTS": 27.5
+  },
+  {
+    "Player": "Austin Fort",
+    "Team": "DEN",
+    "REC": 10,
+    "YDS": 102,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 26.2
+  },
+  {
+    "Player": "Derek Carrier",
+    "Team": "LV",
+    "REC": 10,
+    "YDS": 92,
+    "TDS": 1.2,
+    "FL": 0,
+    "FPTS": 26.1
+  },
+  {
+    "Player": "Caleb Wilson",
+    "Team": "WAS",
+    "REC": 10,
+    "YDS": 97,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 25.7
+  },
+  {
+    "Player": "Jace Sternberger",
+    "Team": "GB",
+    "REC": 9.3,
+    "YDS": 86,
+    "TDS": 1,
+    "FL": 0,
+    "FPTS": 23.9
+  },
+  {
+    "Player": "Blake Bell",
+    "Team": "KC",
+    "REC": 10,
+    "YDS": 94.9,
+    "TDS": 0.7,
+    "FL": 0,
+    "FPTS": 23.9
+  },
+  {
+    "Player": "Jordan Thomas",
+    "Team": "IND",
+    "REC": 8.3,
+    "YDS": 74,
+    "TDS": 0.7,
+    "FL": 0,
+    "FPTS": 20.2
+  },
+  {
+    "Player": "Nick Vannett",
+    "Team": "NO",
+    "REC": 7.3,
+    "YDS": 80.1,
+    "TDS": 0.6,
+    "FL": 0,
+    "FPTS": 18.7
+  },
+  {
+    "Player": "Tommy Tremble",
+    "Team": "CAR",
+    "REC": 8.6,
+    "YDS": 85.4,
+    "TDS": 0.4,
+    "FL": 0.5,
+    "FPTS": 18.5
+  },
+  {
+    "Player": "Tre' McKitty",
+    "Team": "LAC",
+    "REC": 7.7,
+    "YDS": 81.6,
+    "TDS": 0.4,
+    "FL": 0,
+    "FPTS": 18.3
+  },
+  {
+    "Player": "Evan Baylis",
+    "Team": "KC",
+    "REC": 6.9,
+    "YDS": 72,
+    "TDS": 0.6,
+    "FL": 0,
+    "FPTS": 17.5
+  },
+  {
+    "Player": "Jeremy Sprinkle",
+    "Team": "DAL",
+    "REC": 6.9,
+    "YDS": 71.4,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 17.1
+  },
+  {
+    "Player": "Tommy Sweeney",
+    "Team": "BUF",
+    "REC": 6,
+    "YDS": 75.5,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 16.7
+  },
+  {
+    "Player": "J.P. Holtz",
+    "Team": "CHI",
+    "REC": 5.9,
+    "YDS": 73.2,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 16.2
+  },
+  {
+    "Player": "Noah Togiai",
+    "Team": "IND",
+    "REC": 6.4,
+    "YDS": 60.9,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 15.6
+  },
+  {
+    "Player": "Daniel Brown",
+    "Team": "NYJ",
+    "REC": 5.4,
+    "YDS": 63.6,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 14.8
+  },
+  {
+    "Player": "Zach Gentry",
+    "Team": "PIT",
+    "REC": 6.1,
+    "YDS": 54.9,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 14.4
+  },
+  {
+    "Player": "Charlie Woerner",
+    "Team": "SF",
+    "REC": 5.4,
+    "YDS": 63.8,
+    "TDS": 0.4,
+    "FL": 0,
+    "FPTS": 14.4
+  },
+  {
+    "Player": "Richard Rodgers",
+    "Team": "PHI",
+    "REC": 5,
+    "YDS": 65.7,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 14.3
+  },
+  {
+    "Player": "Stephen Anderson",
+    "Team": "LAC",
+    "REC": 5.3,
+    "YDS": 65.6,
+    "TDS": 0.4,
+    "FL": 0,
+    "FPTS": 14.2
+  },
+  {
+    "Player": "Jesse James",
+    "Team": "CHI",
+    "REC": 6.1,
+    "YDS": 51.3,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 14.1
+  },
+  {
+    "Player": "Johnny Mundt",
+    "Team": "LAR",
+    "REC": 5.4,
+    "YDS": 57.1,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 13.9
+  },
+  {
+    "Player": "Antony Auclair",
+    "Team": "HOU",
+    "REC": 4.9,
+    "YDS": 54.5,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 13.4
+  },
+  {
+    "Player": "Josh Oliver",
+    "Team": "BAL",
+    "REC": 4.3,
+    "YDS": 44.2,
+    "TDS": 0.4,
+    "FL": 0,
+    "FPTS": 11.3
+  },
+  {
+    "Player": "Colby Parkinson",
+    "Team": "SEA",
+    "REC": 4.2,
+    "YDS": 44,
+    "TDS": 0.5,
+    "FL": 0,
+    "FPTS": 11.3
+  },
+  {
+    "Player": "Josiah Deguara",
+    "Team": "GB",
+    "REC": 4.3,
+    "YDS": 47.1,
+    "TDS": 0.4,
+    "FL": 0.1,
+    "FPTS": 11.2
+  },
+  {
+    "Player": "Ben Ellefson",
+    "Team": "JAC",
+    "REC": 4.2,
+    "YDS": 41.9,
+    "TDS": 0.3,
+    "FL": 0,
+    "FPTS": 10.4
+  },
+  {
+    "Player": "Demetrius Harris",
+    "Team": "ARI",
+    "REC": 3.8,
+    "YDS": 39.2,
+    "TDS": 0.4,
+    "FL": 0,
+    "FPTS": 10
+  },
+  {
+    "Player": "Luke Stocker",
+    "Team": "TEN",
+    "REC": 3.9,
+    "YDS": 37.8,
+    "TDS": 0.4,
+    "FL": 0.1,
+    "FPTS": 9.7
+  },
+  {
+    "Player": "Alize Mack",
+    "Team": "DET",
+    "REC": 4.1,
+    "YDS": 39.4,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 9.2
+  },
+  {
+    "Player": "Mason Schreck",
+    "Team": "CIN",
+    "REC": 3.5,
+    "YDS": 36.4,
+    "TDS": 0.3,
+    "FL": 0,
+    "FPTS": 8.7
+  },
+  {
+    "Player": "Tyree Jackson",
+    "Team": "PHI",
+    "REC": 3.5,
+    "YDS": 36.2,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 8.4
+  },
+  {
+    "Player": "Dominique Dafney",
+    "Team": "GB",
+    "REC": 2.4,
+    "YDS": 25.7,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 6.3
+  },
+  {
+    "Player": "Lee Smith",
+    "Team": "ATL",
+    "REC": 2.6,
+    "YDS": 25,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 6.2
+  },
+  {
+    "Player": "Sean McKeon",
+    "Team": "DAL",
+    "REC": 2.6,
+    "YDS": 26.7,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 6.1
+  },
+  {
+    "Player": "Cethan Carter",
+    "Team": "MIA",
+    "REC": 2.5,
+    "YDS": 24.2,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 5.6
+  },
+  {
+    "Player": "Jordan Franks",
+    "Team": "CLE",
+    "REC": 2.1,
+    "YDS": 23.5,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 5.5
+  },
+  {
+    "Player": "Trevon Wesco",
+    "Team": "NYJ",
+    "REC": 2.3,
+    "YDS": 24.3,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 5.4
+  },
+  {
+    "Player": "Kaden Smith",
+    "Team": "NYG",
+    "REC": 2.5,
+    "YDS": 22.1,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 5.4
+  },
+  {
+    "Player": "Eric Saubert",
+    "Team": "DEN",
+    "REC": 2.3,
+    "YDS": 22.7,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 5.4
+  },
+  {
+    "Player": "Ricky Seals-Jones",
+    "Team": "WAS",
+    "REC": 1.5,
+    "YDS": 18.3,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 4.3
+  },
+  {
+    "Player": "Zach Davidson",
+    "Team": "MIN",
+    "REC": 1.7,
+    "YDS": 17.6,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 4.3
+  },
+  {
+    "Player": "Tanner Hudson",
+    "Team": "TB",
+    "REC": 1.5,
+    "YDS": 15.7,
+    "TDS": 0.2,
+    "FL": 0,
+    "FPTS": 3.9
+  },
+  {
+    "Player": "Temarrick Hemingway",
+    "Team": "WAS",
+    "REC": 1.4,
+    "YDS": 16.1,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 3.5
+  },
+  {
+    "Player": "Brandon Dillon",
+    "Team": "MIN",
+    "REC": 1.3,
+    "YDS": 13.8,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 3.3
+  },
+  {
+    "Player": "Matt LaCosse",
+    "Team": "NE",
+    "REC": 1.2,
+    "YDS": 12.8,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 2.8
+  },
+  {
+    "Player": "Eric Tomlinson",
+    "Team": "BAL",
+    "REC": 1.2,
+    "YDS": 11.7,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 2.8
+  },
+  {
+    "Player": "Codey McElroy",
+    "Team": "TB",
+    "REC": 0.9,
+    "YDS": 8.6,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 2.3
+  },
+  {
+    "Player": "Kevin Rader",
+    "Team": "PIT",
+    "REC": 0.9,
+    "YDS": 8.7,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 2
+  },
+  {
+    "Player": "Isaac Nauta",
+    "Team": "GB",
+    "REC": 0.8,
+    "YDS": 8.3,
+    "TDS": 0.1,
+    "FL": 0,
+    "FPTS": 2
+  },
+  {
+    "Player": "Tyrone Swoopes",
+    "Team": "WAS",
+    "REC": 0.9,
+    "YDS": 9.6,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.8
+  },
+  {
+    "Player": "Garrett Griffin",
+    "Team": "NO",
+    "REC": 0.8,
+    "YDS": 8.8,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.8
+  },
+  {
+    "Player": "Hakeem Butler",
+    "Team": "PHI",
+    "REC": 0.8,
+    "YDS": 8.4,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.7
+  },
+  {
+    "Player": "Jason Croom",
+    "Team": "PHI",
+    "REC": 0.8,
+    "YDS": 8.5,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.7
+  },
+  {
+    "Player": "Jesper Horsted",
+    "Team": "CHI",
+    "REC": 0.8,
+    "YDS": 8.3,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.7
+  },
+  {
+    "Player": "Deon Yelder",
+    "Team": "TEN",
+    "REC": 0.8,
+    "YDS": 7.3,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.7
+  },
+  {
+    "Player": "MyCole Pruitt",
+    "Team": "SF",
+    "REC": 0.8,
+    "YDS": 8.2,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.6
+  },
+  {
+    "Player": "Cole Hikutini",
+    "Team": "NYG",
+    "REC": 0.8,
+    "YDS": 7.2,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.5
+  },
+  {
+    "Player": "Colin Thompson",
+    "Team": "CAR",
+    "REC": 0.7,
+    "YDS": 6.8,
+    "TDS": 0,
+    "FL": 0,
+    "FPTS": 1.4
   }
 ]
